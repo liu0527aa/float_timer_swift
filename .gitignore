@@ -1,0 +1,49 @@
+# ---------------------------------------------
+# macOS
+# ---------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# ---------------------------------------------
+# Xcode
+# ---------------------------------------------
+# 用户个人的 IDE 状态（UI 布局、断点、最近文件等），不应进入版本库
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+*.xcscmblueprint
+*.xccheckout
+
+# 构建产物
+build/
+DerivedData/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager（如后续引入）
+.build/
+.swiftpm/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# ---------------------------------------------
+# CocoaPods
+# ---------------------------------------------
+# 本项目选择不提交 Pods/ 目录：
+# clone 后请执行 `pod install` 还原依赖。
+# 注意：Podfile 与 Podfile.lock 必须提交，以锁定依赖版本。
+Pods/
+
+# ---------------------------------------------
+# 其他
+# ---------------------------------------------
+*.log
+*.swp

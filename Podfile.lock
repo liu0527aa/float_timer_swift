@@ -1,0 +1,20 @@
+PODS:
+  - Kronos (4.2.2)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Kronos
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Kronos
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Kronos: dfa27819541f9f1bf6834d5bfefa792f499001bb
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: d96098190a0b64918055c0159c89b8b68b32b83e
+
+COCOAPODS: 1.12.1
